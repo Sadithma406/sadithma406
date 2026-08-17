@@ -3,7 +3,7 @@
 # Hi 👋, I'm Sadithma Perera
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=720&lines=Software+Engineering+Undergraduate;Aspiring+Software+Developer+%26+Cloud+Enthusiast;Full-Stack+%7C+Cloud+%7C+Databases;Open+to+Internships+%26+Collaborations"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=720&lines=Aspiring+Software+Developer+%26+Cloud+Enthusiast;Full-Stack+%7C+Cloud+%7C+Databases;Open+to+Internships+%26+Collaborations;Software+Engineering+Undergraduate"
   alt="Typing SVG"
 />
 
@@ -137,21 +137,11 @@ I am actively seeking **internships** and **collaborative opportunities** to gro
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadithma406&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadithma406&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadithma406&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadithma406&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
 
 ### 🤝 Connect With Me
 
@@ -164,11 +154,7 @@ I am actively seeking **internships** and **collaborative opportunities** to gro
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadithma406&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
----
 
 <div align="center">
   <sub>⭐ From <a href="https://github.com/Sadithma406">Sadithma406</a> — feel free to reach out for collaboration!</sub>
