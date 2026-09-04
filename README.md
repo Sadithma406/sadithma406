@@ -89,7 +89,7 @@ I am actively seeking **internships** and **collaborative opportunities** to gro
     <th align="center">Tech Stack</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sadithma406/SE-15-ENVOtix"><b>Envotix (SE-15)</b></a></td>
+    <td align="center"><a href="https://github.com/Sadithma406/SE-15-ENVOtix"><b>Envotix </b></a></td>
     <td align="left">Smart waste management system with IoT-enabled bins — web app for municipal councils and a mobile app for households to monitor bins in real time.</td>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
